@@ -9,7 +9,7 @@ public class Main {
         // boolean b = true;
         /* Make a double variable named 'd' with the value 6.28 */
 
-        System.out.println("Hello World!");
+        System.out.println("Hello TechHOUNDS");
 
         // if (a == 3) {
         // System.out.println("a is 3! :D");
