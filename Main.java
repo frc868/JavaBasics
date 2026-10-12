@@ -1,16 +1,197 @@
-import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Scanner scanner = new Scanner(System.in);
+     
+    int can_id = 12;
+    String motorName = "Vroom Vroom Vroom";
+    boolean jarvisEnabled = false;
 
+    imTiredBossMotor(can_id, motorName);
+
+    }
+
+    static void imTiredBossMotor(int can_id, String motorName){
+        System.out.println(can_id);
+    }
+
+
+
+
+    
+    
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //Defalt:
         // String hello = "Hello World";
         // int a = 3;
         // boolean b = true;
         /* Make a double variable named 'd' with the value 6.28 */
 
-        System.out.println("Hello TechHOUNDS");
+        
+        //System.out.println
+        // sayHi(15);
 
+
+        // add(12, 1);
         // if (a == 3) {
         // System.out.println("a is 3! :D");
         // } else if (a == 4) {
@@ -32,15 +213,18 @@ public class Main {
         // }
 
         /* Write while and for loops to count down from 5 to 0 here */
-    }
+   // }
 
     // This is a void method because it doesn't return anything
-    // static void sayHi() {
-    // System.out.println("Hi! :3");
-    // }
+   // static double sayHi(int Andrew) {
+    //System.out.println("Hi! :3");
+   // return Andrew;
+
+   // }
 
     // This method returns a value, it has a return type instead of 'void'
-    // static double add(double x, double y) {
+
+    //static double add(double x, double y) {
     // return x + y;
     // }
 
@@ -49,4 +233,4 @@ public class Main {
      * "Subtracting <second int> from <first int>", then returns the result of the
      * subtraction
      */
-}
+//}
